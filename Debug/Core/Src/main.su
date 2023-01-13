@@ -1,0 +1,9 @@
+../Core/Src/main.c:100:7:map	32	static
+../Core/Src/main.c:106:6:HAL_CAN_RxFifo1MsgPendingCallback	24	static
+../Core/Src/main.c:147:10:encoder	16	static
+../Core/Src/main.c:211:7:Motors_RPS	32	static
+../Core/Src/main.c:260:5:main	16	static
+../Core/Src/main.c:352:6:SystemClock_Config	72	static
+../Core/Src/main.c:388:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:403:6:HAL_TIM_PeriodElapsedCallback	40	static
+../Core/Src/main.c:451:6:Error_Handler	4	static,ignoring_inline_asm
